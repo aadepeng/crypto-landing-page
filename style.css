@@ -11,6 +11,13 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+.navbar .grow-list .list .list-item:first-child::after{
+  content: "\02C5";
+  position: relative;
+  top: 4.2%;
+  left: 9.5%;
+
+}
 
 .navbar {
   display: flex;
