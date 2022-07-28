@@ -1,6 +1,6 @@
 # Crypto Landing Page
 
->Live Link : [Digital Marketing](https://google.com)
+>Live Link : [Crypto Landing Page](https://crypto-page.netlify.app)
 
 >This site should look like this - 
 ![Pic](https://raw.githubusercontent.com/aadepeng/crypto-landing-page/main/Crypto%20Landing%20Page.png)
