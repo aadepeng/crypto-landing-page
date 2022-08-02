@@ -3,7 +3,7 @@
 >Live Link : [Crypto Landing Page](https://crypto-page.netlify.app)
 
 >This site should look like this - 
-![Pic](https://raw.githubusercontent.com/aadepeng/crypto-landing-page/main/Crypto%20Landing%20Page.png)
+![Crypto Landing Page](https://user-images.githubusercontent.com/25903125/182436116-116890d1-f9ca-487d-b0e6-4450ac7219f6.png)
 
 ## Time taken to complete this project 
 >30 mins
